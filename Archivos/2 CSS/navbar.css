@@ -17,4 +17,12 @@ nav{
 background: rebeccapurple;
 padding:10px;
 display: flex;
+justify-content: space-around;
+}
+
+@media (max-width: 600px) {
+
+   .facet_sidebar {
+    display: none;
+   } 
 }
