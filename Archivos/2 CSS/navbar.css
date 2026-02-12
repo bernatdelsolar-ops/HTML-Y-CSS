@@ -24,5 +24,10 @@ justify-content: space-around;
 
    nav{
     background: black;
+    flex-direction: column;
+   }
+   .nav-enlace{
+    margin: 10px;
+
    }
 }
