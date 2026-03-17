@@ -41,4 +41,9 @@ justify-content: space-around;
    .nav-boton{
     display: inline-block;
    }
+
+   .desaparece{
+
+    display: none;
+   }
 }
